@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2644" started-at="2020-06-15T08:27:59Z" finished-at="2020-06-15T08:28:02Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2644" started-at="2020-06-15T08:27:59Z" finished-at="2020-06-15T08:28:02Z">
+      <class name="practiceRestAssured.CheckParameterization">
+        <test-method status="PASS" signature="checkParam()[pri:0, instance:practiceRestAssured.CheckParameterization@573f2bb1]" name="checkParam" duration-ms="2607" started-at="2020-06-15T13:57:59Z" finished-at="2020-06-15T13:58:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkParam -->
+      </class> <!-- practiceRestAssured.CheckParameterization -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
