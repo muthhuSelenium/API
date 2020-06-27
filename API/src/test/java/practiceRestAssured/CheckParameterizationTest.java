@@ -6,7 +6,7 @@ import io.restassured.response.Response;
 
 import static io.restassured.RestAssured.*;
 
-public class CheckParameterization {
+public class CheckParameterizationTest {
 
 	@Test
 	public void checkParam()
