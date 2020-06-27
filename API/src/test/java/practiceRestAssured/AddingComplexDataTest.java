@@ -11,7 +11,7 @@ import io.restassured.response.Response;
 import io.restassured.specification.RequestSender;
 import io.restassured.specification.RequestSpecification;
 
-public class AddingComplexData {
+public class AddingComplexDataTest {
 	
 	@Test
 	public void addComplexData()
