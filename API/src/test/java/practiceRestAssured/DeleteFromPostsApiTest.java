@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 import io.restassured.RestAssured;
 import io.restassured.response.Response;
 
-public class DeleteFromPostsApi {
+public class DeleteFromPostsApiTest {
 	
 	@Test
 	public void deleteFromPosts()
