@@ -10,7 +10,7 @@ import io.restassured.response.ValidatableResponse;
 import io.restassured.specification.RequestSender;
 import io.restassured.specification.RequestSpecification;
 
-public class AddDataToPostsApi {
+public class AddDataToPostsApiTest {
 	
 	@Test
 	public void postDataToPostsApi()
